@@ -1,18 +1,10 @@
-# Image files
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.ico
-*.svg
-*.webp
-*.tiff
-*.tif
+# Image source/editing files (keep web-optimized images like jpg, png, svg, webp for the website)
 *.psd
 *.ai
 *.eps
 *.raw
+*.xcf
+*.sketch
 
 # Archive files
 *.zip
@@ -47,12 +39,9 @@
 *.wma
 *.m4a
 
-# Font files
-*.ttf
-*.otf
-*.woff
-*.woff2
-*.eot
+# Font source files (keep web fonts like woff, woff2, ttf, otf for the website)
+*.fnt
+*.fon
 
 # Document files (binary)
 *.pdf
