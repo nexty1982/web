@@ -1,0 +1,154 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.ico
+*.svg
+*.webp
+*.tiff
+*.tif
+*.psd
+*.ai
+*.eps
+*.raw
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.bz2
+*.7z
+*.rar
+*.cab
+*.iso
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+
+# Audio files
+*.mp3
+*.wav
+*.aac
+*.ogg
+*.flac
+*.wma
+*.m4a
+
+# Font files
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.eot
+
+# Document files (binary)
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Executable and library files
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.dmg
+*.pkg
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Other binary files
+*.bin
+*.dat
+*.class
+*.pyc
+*.pyo
+*.o
+*.obj
+*.lib
+*.a
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Dependency directories
+node_modules/
+bower_components/
+vendor/
+
+# Build output
+dist/
+build/
+out/
+*.min.js
+*.min.css
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*.temp
+
+# Cache directories
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
